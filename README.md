@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charmak AKA charmer
-- 👀 I'm a CS student interested in ML, Data Science, and anything I can do to gain experience, I have lots to learn!
+- 👀 I'm a CS student interested in ML, Data Science, and anything I can do to gain experience.
 - 🌱 I’m currently learning Java, Python and SQL.
 - 💞️ I’m looking to collaborate on anything I can help with. 
 - 📫 Reach me @ Charles.Merritt@uga.edu
